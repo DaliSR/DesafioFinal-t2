@@ -3,20 +3,18 @@ footer {
 
   .boxSocial {
     background-color: rgba(0, 86, 149, 1);
-    height: 20vh;
+    height: 18vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-left: 50px;
     padding-right: 50px;
     h3 {
-      margin-left: 50px;
       font-size: 16px;
       font-weight: bold;
     }
     nav {
       width: 18vw;
-      //margin-right: 50px;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -31,6 +29,9 @@ footer {
     justify-content: center;
     p {
       font-size: 18px;
+    }
+    a {
+      color:rgb(66, 175, 248);
     }
   }
 }

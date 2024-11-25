@@ -1,37 +1,31 @@
-.doados {
-  height: 80vh;
-  div {
-    border: solid 3px solid rgba(0, 86, 149, 1);
-    height: 15vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    h2 {
-      font-size: 30px;
-      color: rgba(0, 0, 0, 1);
-    }
-  }
+.boxDoados {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 
-  .livros {
+  .boxLivros {
+    width: 85vw;
+    height: 60vh;
     display: flex;
+    text-align: center;
     justify-content: space-evenly;
+    padding-top: 20px;
     article {
-      border: 3px solid rgba(0, 86, 149, 1);
-      border-radius: 20px;
-      width: 20vw;
-      height: 43vh;
+      border: solid 2px rgba(0, 86, 149, 1);
+      border-radius: 15px;
+      width: 15vw;
+      height: 45vh;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: space-evenly;
-      padding: 16px;
+      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+      font-size: 15px;
       img {
-        width: 100px;
-        height: 95px;
-      }
-      p {
-        font-size: 20px;
-        text-align: center;
+        width: 7vw;
+        margin-bottom: 10px;
       }
     }
   }

@@ -5,7 +5,7 @@ import icone3 from "../../assets/img/transform.png";
 import icone4 from "../../assets/img/balance.png";
 
 export default function Inicio() {
-  return(
+  return (
     <main>
       <section className={s.banner}>
         <h2>VENHA FAZER PARTE DA MAIOR REDE DE DOAÇÃO</h2>
@@ -15,7 +15,7 @@ export default function Inicio() {
         <div>
           <h2>Por que devo doar?</h2>
         </div>
-    <section className={s.boxCard}>
+        <section className={s.boxCard}>
           <article>
             <img src={icone1} alt="Ícone de inclusão social" />
             <p>

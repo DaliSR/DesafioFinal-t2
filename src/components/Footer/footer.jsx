@@ -11,27 +11,31 @@ export default function Footer() {
       <section className={s.boxSocial}>
         <h3>4002-8922</h3>
         <nav>
-          <a href="https://www.facebook.com/vainaweb/">
+          <a href="https://www.facebook.com/vainaweb/" target="_blank">
             <img src={Facebook} alt="icone do facebook" />
           </a>
-          <a href="https://x.com/vainaweb/">
+          <a href="https://x.com/vainaweb/" target="_blank">
             <img src={Twitter} alt="icone do Twitter" />
           </a>
-          <a href="https://www.youtube.com/c/VaiNaWeb">
+          <a href="https://www.youtube.com/c/VaiNaWeb" target="_blank">
             <img src={YouTube} alt="icone do YouTube" />
           </a>
-          <a href="https://www.linkedin.com/company/vainaweb/">
+          <a href="https://www.linkedin.com/company/vainaweb/" target="_blank">
             <img src={Linkedin} alt="icone do Linkedin" />
           </a>
-          <a href="https://www.instagram.com/vainaweb/">
+          <a href="https://www.instagram.com/vainaweb/" target="_blank">
             <img src={Instagram} alt="icone do Instagram" />
           </a>
         </nav>
       </section>
 
       <section className={s.boxCredits}>
-        <p>Layout desenvolvido pela Vai Na Web para fins educativos - 2024 </p>
-      </section>
+        <p>
+          Layout desenvolvido pela
+          <a href="https://vainaweb.com.br/" target="_blank"> Vai Na Web </a>
+          para fins educativos - 2024.
+        </p>
+      </section> 
     </footer>
   );
 }
