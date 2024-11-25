@@ -1,0 +1,72 @@
+.queroDoar {
+  border: solid 2px greenyellow;
+  padding: 32px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  h2 {
+    font-size: 24px;
+    margin-bottom: 24px;
+  }
+  form {
+    border: solid 3px rgba(0, 86, 149, 1);
+    border-radius: 20px;
+    padding: 32px;
+    width: 32vw;
+    height: 98vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+.infoLivro {
+  width: 26vw;
+  height: 8, 7vh;
+  display: flex;
+  padding: 32px;
+  align-items: center;
+  margin-bottom: 18px;
+  justify-content: space-between;
+  img {
+    width: 4.5vw;
+    height: auto;
+  }
+  h3 {
+    font-size: 1.5vw;
+    color: rgba(0, 86, 149, 1);
+  }
+}
+.inputGroup {
+  width: 23vw;
+  height: 42vh;
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  input {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+  }
+}
+
+.btn {
+  margin-top: 3vh;
+  width: 100%;
+
+  button {
+    background: #005695;
+    width: 14vw;
+    height: 9vh;
+    color: #fff;
+    font-size: 20px;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+  }
+}
