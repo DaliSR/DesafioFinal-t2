@@ -22,7 +22,6 @@
       font-size: 30px;
       color: rgba(0, 86, 149, 1);
       margin-left: 60px;
-     
     }
   }
 }
@@ -44,12 +43,39 @@
     box-shadow: 2px 2px 2px 1px #94a6b3;
     p {
       width: 70%;
-      font-size: 20px;
+      font-size: 18px;
       text-align: center;
     }
   }
 }
-@media (max-width: 780px) {
+
+@media (max-width: 1200px) {
+  .banner {
+    background-size: cover;
+  }
+  .boxCard {
+    article {
+      p {
+        font-size: 1.4vw;
+      }
+    }
+  }
+}
+@media (max-width: 860px) {
+  .banner {
+    background-position: center;
+  }
+  .boxCard {
+    article {
+      width: 22%;
+      p {
+        font-size: 1.6vw;
+      }
+    }
+  }
+}
+
+@media (max-width: 760px) {
   .banner {
     justify-content: center;
     h2 {
@@ -58,41 +84,32 @@
       text-align: center;
     }
   }
-}
-@media (max-width: 1000px) {
-  .boxCard {
-    article {
-      p {
-        font-size: 1.5vw;
+  .devoDoar {
+    height: auto;
+    div {
+      justify-content: center;
+      h2 {
+        margin-left: 0;
       }
     }
   }
-}
-@media (max-width: 780px) {
-  .devoDoar {
-    height: 120vh;
-    div {
-      justify-content: center;
-    }
-    h2 {
-      margin-left: 0;
-    }
-  }
   .boxCard {
-    height: auto;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 10px;
+    height: 80vh;
     article {
       width: 230px;
       height: 38vh;
       p {
-        font-size: 14px;
+        font-size: 15px;
       }
     }
   }
 }
-@media (max-width: 479px) {
-  .devoDoar {
-    height: 190vh;
+
+@media (max-width: 477px) {
+  .boxCard {
+    height: auto;
+    margin-bottom: 10px;
   }
 }

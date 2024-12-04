@@ -4,48 +4,64 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
+  h2 {
+    margin: 30px;
+  }
 }
-  .boxLivros {
-    width: 85vw;
-    height: 60vh;
+.boxLivros {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 16px;
+
+  article {
+    border: solid 2px rgba(0, 86, 149, 1);
+    border-radius: 15px;
+    width: 230px;
+    height: 210px;
     display: flex;
-    text-align: center;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-evenly;
-    padding-top: 20px;
+    padding: 16px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-size: 15px;
+    img {
+      width: 80px;
+    }
+  }
+}
+@media (max-width: 768px) {
+  .boxDoados {
+    height: 110vh;
+    padding: 20px;
+  }
+  .boxLivros {
+    height: 100vh;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
     article {
-      border: solid 2px rgba(0, 86, 149, 1);
-      border-radius: 15px;
-      width: 15vw;
-      height: 40vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: space-evenly;
-      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-      img {
-      width: 6vw;
+      width: 180px;
+      font-size: 15px;
     }
-  } 
+  }
 }
-  @media (max-width: 768px) {
-    .boxLivros {
-      flex-direction: column; 
-      align-items: center;
-      article {
-          width: 80%; 
-          margin-bottom: 16px;
-      }
-    }
-}
+
 @media (max-width: 360px) {
+  .boxDoados {
+    height: 200vh;
+  }
   .boxLivros {
     flex-direction: column;
     align-items: center;
-
+    gap: 12px;
     article {
       width: 90%;
-      margin-bottom: 12px;
-      font-size: 16px; 
+      font-size: 12px;
     }
   }
 }

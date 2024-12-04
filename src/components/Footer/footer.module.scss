@@ -33,22 +33,17 @@ footer {
 @media (max-width: 1000px) {
   .boxSocial {
     nav {
-      width: 220px;
+      width: 250px;
     }
   }
 }
-@media (max-width: 479px) {
+@media (max-width: 500px) {
   .boxSocial {
     flex-direction: column;
     justify-content: space-evenly;
-    nav {
-      align-items: center;
-    }
   }
   .boxCredits {
-    p {
-      text-align: center;
-      font-size: 16px;
-    }
+    text-align: center;
+    font-size: 16px;
   }
 }
