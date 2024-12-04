@@ -11,7 +11,6 @@ Layout desenvolvido pela Vai Na Web para fins educativos - 2024
 **FrontEnd** : Desenvolvido em React e estilizado em Sass Modularizado.
 
 ## 🔗 Links
-:open_file_folder:[Acesso ao projeto](desafio-final-t2-gules.vercel.app)
 
 
 
