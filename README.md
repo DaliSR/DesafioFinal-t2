@@ -13,8 +13,7 @@ Professor: Vinícius Bispo / Facilitadora: Marina Gomes
 
 
 # Screenshot
-![screenshotandroid](![iPad-Mini-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/e214d592-8b51-4d90-96c7-d342c35e1a87))
-]
+![iPad-Mini-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/e214d592-8b51-4d90-96c7-d342c35e1a87)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
