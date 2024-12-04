@@ -6,8 +6,7 @@ import search from "../../assets/img/search.png";
 import Inicio from "../../Pages/Inicio/Inicio";
 import Doados from "../../Pages/Doados/Doados";
 import QueroDoar from "../../Pages/QueroDoar/QueroDoar";
-import s from "./header.module.scss"; // Ao importar o Sass como um módulo (.module.scss), conseguimos usar estilos isolados dentro do componente, ou seja, eles só serão aplicados ao componente onde estão importados.
-//Isso ajuda a evitar estilos acidentais que podem "vazar" para outros componentes.
+import s from "./header.module.scss";
 
 export default function header() {
   return (

@@ -15,16 +15,14 @@ export default function QueroDoar() {
             <h3>Informações do Livro</h3>
           </div>
 
-          <div>
-            <input type="text" name="" id="" placeholder="Título" />
+          <input type="text" name="" id="" placeholder="Título" />
 
-            <input type="text" name="" id="" placeholder="Categoria" />
+          <input type="text" name="" id="" placeholder="Categoria" />
 
-            <input type="text" name="" id="" placeholder="Autor" />
+          <input type="text" name="" id="" placeholder="Autor" />
 
-            <input type="text" name="" id="" placeholder="Link da Imagem" />
-            <input className={s.doar} type="submit" value="Doar" />
-          </div>
+          <input type="text" name="" id="" placeholder="Link da Imagem" />
+          <input className={s.doar} type="submit" value="Doar" />
         </form>
       </section>
     </section>

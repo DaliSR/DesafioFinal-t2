@@ -4,7 +4,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-
+}
   .boxLivros {
     width: 85vw;
     height: 60vh;
@@ -16,17 +16,36 @@
       border: solid 2px rgba(0, 86, 149, 1);
       border-radius: 15px;
       width: 15vw;
-      height: 45vh;
+      height: 40vh;
       display: flex;
       flex-direction: column;
       align-items: center;
       justify-content: space-evenly;
       box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-      font-size: 15px;
       img {
-        width: 7vw;
-        margin-bottom: 10px;
+      width: 6vw;
+    }
+  } 
+}
+  @media (max-width: 768px) {
+    .boxLivros {
+      flex-direction: column; 
+      align-items: center;
+      article {
+          width: 80%; 
+          margin-bottom: 16px;
       }
+    }
+}
+@media (max-width: 360px) {
+  .boxLivros {
+    flex-direction: column;
+    align-items: center;
+
+    article {
+      width: 90%;
+      margin-bottom: 12px;
+      font-size: 16px; 
     }
   }
 }

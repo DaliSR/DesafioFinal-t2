@@ -1,37 +1,54 @@
 footer {
+  height: 30vh;
   color: rgba(255, 255, 255, 0.86);
+}
 
-  .boxSocial {
-    background-color: rgba(0, 86, 149, 1);
-    height: 18vh;
+.boxSocial {
+  background-color: rgba(0, 86, 149, 1);
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  nav {
+    width: 18vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-left: 50px;
-    padding-right: 50px;
-    h3 {
-      font-size: 16px;
-      font-weight: bold;
-    }
+  }
+}
+
+.boxCredits {
+  background-color: rgba(35, 32, 32, 1);
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  a {
+    color: rgb(82, 222, 241);
+  }
+}
+
+@media (max-width: 1000px) {
+  .boxSocial {
     nav {
-      width: 18vw;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+      width: 220px;
     }
   }
-
-  .boxCredits {
-    background-color: rgba(35, 32, 32, 1);
-    height: 9.5vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    p {
-      font-size: 18px;
+}
+@media (max-width: 479px) {
+  .boxSocial {
+    flex-direction: column;
+    justify-content: space-evenly;
+    nav {
+      align-items: center;
     }
-    a {
-      color:rgb(66, 175, 248);
+  }
+  .boxCredits {
+    p {
+      text-align: center;
+      font-size: 16px;
     }
   }
 }
