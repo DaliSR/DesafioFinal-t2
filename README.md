@@ -12,8 +12,15 @@ Professor: Vinícius Bispo / Facilitadora: Marina Gomes
 
 
 
-# Screenshot
+# Screenshots
 ![iPad-Mini-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/e214d592-8b51-4d90-96c7-d342c35e1a87)
+![Macbook-Air-desafio-final-t2-gules vercel app (1)](https://github.com/user-attachments/assets/ef320913-0afb-409d-b81c-6f0cfbd2e780)
+![Macbook-Air-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/3b60bd58-f452-45a7-a4f0-5bbb5155f8b7)
+![iPhone-12-PRO-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/c95e5b2e-5419-4308-977f-a4e1c357388e)
+
+
+
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
