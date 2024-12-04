@@ -1,10 +1,11 @@
-# Projeto Desafio Final | Módulo 1 do Curso Desenvolvimento FullStack - Empower **Vai Na Web**
+# Projeto Desafio Final | Módulo 1  
+## Curso Desenvolvimento FullStack - Empower **Vai Na Web**
 
 Layout desenvolvido pela Vai Na Web para fins educativos - 2024
 Professor: Vinícius Bispo / Facilitadora: Marina Gomes
 
-## Stack utilizada 
-# React + Vite
+# Stack utilizada :
+## React + Vite
 
 **FrontEnd** : Desenvolvido em React e estilizado em Sass Modularizado.
 
