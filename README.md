@@ -16,13 +16,17 @@ Layout desenvolvido pela Vai Na Web para fins educativos - 2024
 
 
 # Screenshots
-![iPad-Mini-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/e214d592-8b51-4d90-96c7-d342c35e1a87)
+800 x 1280
+![Galaxy-Tab-S7-localhost (1)](https://github.com/user-attachments/assets/24f764c0-d6bf-44f0-87de-20ee3b65bc09)![iPad-Mini-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/e214d592-8b51-4d90-96c7d342c35e1a87)![Galaxy-Tab-S7-localhost (2)](https://github.com/user-attachments/assets/99227550-b96a-4235-b979-82bc4b8b6e76)![Galaxy-Tab-S7-localhost (3)](https://github.com/user-attachments/assets/5fb82d10-4264-498b-8118-26bc778acdd4)
 
-![iPhone-12-PRO-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/c95e5b2e-5419-4308-977f-a4e1c357388e)
+360 x 800
+![iPhone-12-PRO-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/c95e5b2e-5419-4308-977f-a4e1c357388e)![Samsung-Galaxy-S20-localhost](https://github.com/user-attachments/assets/378b223a-31ed-441a-9feb-d8ac05723889)![Samsung-Galaxy-S20-localhost (1)](https://github.com/user-attachments/assets/a4058dc8-01c2-424e-b2ab-c12e01e799c6)
 
-![Macbook-Air-desafio-final-t2-gules vercel app (1)](https://github.com/user-attachments/assets/ef320913-0afb-409d-b81c-6f0cfbd2e780)
+1280 x 800
+![Samsung-Galaxy-S20-localhost (1)](https://github.com/user-attachments/assets/a4058dc8-01c2-424e-b2ab-c12e01e799c6)![Macbook-Air-localhost (5)](https://github.com/user-attachments/assets/b9d61146-f85e-4d63-8aff-70f57e480d2d)![Macbook-Air-localhost (1)](https://github.com/user-attachments/assets/9e57958c-ce67-41d2-bc21-b9d869208635)![Macbook-Air-localhost (3)](https://github.com/user-attachments/assets/ca73654d-1ee0-466a-8f54-4e4bf0fb00d4)
 
-![Macbook-Air-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/3b60bd58-f452-45a7-a4f0-5bbb5155f8b7)
+
+
 
 
 
