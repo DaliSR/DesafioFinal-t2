@@ -1,8 +1,7 @@
 # Projeto Desafio Final | Módulo 1 
 
-## Curso Desenvolvimento FullStack - Empower [**Vai Na Web**]
-Instrutor: Vinícius Bispo
-Facilitadora: Marina Gomes
+## Curso Desenvolvimento FullStack - Empower / [**@vainaweb**](https://www.instagram.com/vainaweb/)
+Instrutor: Vinícius Bispo  /  Facilitadora: Marina Gomes
 
 Layout desenvolvido pela [**Vai Na Web**](https://vainaweb.com.br/) para fins educativos - 2024
 
