@@ -29,13 +29,14 @@ Layout desenvolvido pela [**Vai Na Web**](https://vainaweb.com.br/) para fins ed
 ## 360 x 800
 
 ![iPhone-12-PRO-desafio-final-t2-gules vercel app](https://github.com/user-attachments/assets/c95e5b2e-5419-4308-977f-a4e1c357388e)
+![Samsung-Galaxy-S20-localhost](https://github.com/user-attachments/assets/ca4493d0-6721-4198-9d0f-18cdb5fee0eb)
 ![Samsung-Galaxy-S20-localhost](https://github.com/user-attachments/assets/378b223a-31ed-441a-9feb-d8ac05723889)
 ![Samsung-Galaxy-S20-localhost (1)](https://github.com/user-attachments/assets/a4058dc8-01c2-424e-b2ab-c12e01e799c6)
 
 
 ## 1280 x 800
 
-![Samsung-Galaxy-S20-localhost (1)](https://github.com/user-attachments/assets/a4058dc8-01c2-424e-b2ab-c12e01e799c6)
+![Macbook-Air-localhost (4)](https://github.com/user-attachments/assets/4745d3d4-21fd-4513-a20f-54059ec77cbd)
 ![Macbook-Air-localhost (5)](https://github.com/user-attachments/assets/b9d61146-f85e-4d63-8aff-70f57e480d2d)
 ![Macbook-Air-localhost (1)](https://github.com/user-attachments/assets/9e57958c-ce67-41d2-bc21-b9d869208635)
 ![Macbook-Air-localhost (3)](https://github.com/user-attachments/assets/ca73654d-1ee0-466a-8f54-4e4bf0fb00d4)
